@@ -1,2 +1,1 @@
-(()=>{"use strict";console.log("Script started successfully"),WA.openCoWebSite("https://workadventu.re")})();
-//# sourceMappingURL=script.js.map
+window.open("https://bbbtest.zdv.uni-mainz.de/b/kno-tsy-gv0-pms");
